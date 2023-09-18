@@ -1,2 +1,1 @@
-Thread : 0.1s
-encoder
+Read me
